@@ -132,6 +132,7 @@ public class Player_pageActivity extends AppCompatActivity implements Runnable, 
         } else if (language.equalsIgnoreCase("hindi")) {
 
             //hindi
+            //hindi
 
             soundplayer = MediaPlayer.create(this.getBaseContext(), hindi_songs[position]);
 
