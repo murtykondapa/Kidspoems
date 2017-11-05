@@ -133,6 +133,8 @@ public class Player_pageActivity extends AppCompatActivity implements Runnable, 
 
             //hindi
             //hindi
+            // hi ra murthy how are you??
+            
 
             soundplayer = MediaPlayer.create(this.getBaseContext(), hindi_songs[position]);
 
