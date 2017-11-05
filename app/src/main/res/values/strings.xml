@@ -1,0 +1,611 @@
+<resources>
+    <string name="app_name">kid poems</string>
+
+    <string-array name="english_poem_name">
+        <item>Baa, baa, black sheep,
+              \nHave you any wool?
+              \nYes sir, yes sir,
+              \nThree bags full!
+              \nOne for the master,
+              \nOne for the dame,
+              \nOne for the little boy
+              \nWho lives down the lane</item>
+        <item>Bow, bow, says the dog;
+              \nMew, mew, says the cat;
+              \nGrunt, grunt, goes the hog;
+              \nAnd squeak goes the rat.
+              \nTu-whu, says the owl;
+              \nCaw, caw, says the crow;
+              \nQuack, quack, says the duck;
+              \nAnd what the sparrow says,you know.</item>
+        <item>Girls and boys come out to play
+              \nThe moon does shine as bright as day
+              \nLeave your supper, and leave your sleep
+              \nAnd join your playfellows in the street.
+              \nCome with a whoop, and come with a call
+              \nCome with a good will or not at all
+              \nUp the ladder and down the wall
+              \nA penny loaf will serve you all.</item>
+        <item>Ding, dong, bell,
+              \nPussy\’s in the well.
+              \nWho put him in?
+              \nLittle Johnny Thin.
+              \nDing, dong, bell,
+              \nPussy\’s in the well.
+              \nWho pulled him out?
+              \nLittle Tommy Stout.
+              \nWhat a naughty boy was that,
+              \nTry to drown a pussy cat?
+              \nWho never did any harm?
+              \nBut scared all the mice
+              \nIn the Farmer\'s barn.</item>
+        <item>Donkey! Donkey! What do you do?
+              \nCarry loads for all of you,
+              \nDonkey, Donkey what do you eat?
+              \nOh! Grass and leaves and carrots so sweet,
+              \nDonkey, donkey I love you,
+              \nOh! Thank you boy, I love you too.
+              \nEeww Eeww Ewww Ee...</item>
+        <item>Early to bed and
+              \nEarly to rise
+              \nMake the man Healthy,
+              \nWealthy and Wise.
+              \n\nEarly to bed and
+              \nEarly to rise
+              \nMake the man Healthy,
+              \nWealthy and Wise.</item>
+        <item>Five little monkeys jumping on the bed
+              \nOne fell off and bumped his head
+              \nMama called the doctor,
+              \nAnd the doctor said
+              \nNo more monkeys jumping on the bed
+              \nJumping on the bed
+              \nJumping on the bed
+              \nJumping on the bed
+              \nAnd falling off the bed
+              \n\nFour little monkeys jumping on the bed
+              \nOne fell off and bumped his head
+              \nMama called the doctor
+              \nAnd the doctor said,
+              \nNo more monkeys jumping on the bed
+              \n\nThree little monkeys jumping on the bed
+              \nOne fell off and bumped his head
+              \nMama called the doctor
+              \nAnd the doctor said,
+              \nNo more monkeys jumping on the bed
+              \nJumping on the bed
+              \nJumping on the bed
+              \nJumping on the bed
+              \nAnd falling off the bed
+              \n\nTwo little monkeys jumping on the bed
+              \nOne fell off and bumped his head
+              \nMama called the doctor
+              \nAnd the doctor said,
+              \nNo more monkeys jumping on the bed
+              \n\nOne little monkey jumping on the bed
+              \nHe fell off and bumped his head
+              \nMama called the doctor
+              \nAnd the doctor said,
+              \nNo more monkeys jumping on the bed</item>
+        <item>God bless Mummy,
+              \nGod bless Daddy
+              \nAnd help us always
+              \nTo make them happy</item>
+        <item>Jack and Jill
+              \nWent up the hill
+              \nTo fetch a pail of water,
+              \nJack fell down
+              \nAnd broke his crown
+              \nAnd Jill came tumbling after.
+              \nJack and Jill
+              \nWent up the hill
+              \nTo fetch a pail of water,
+              \nJack fell down
+              \nAnd broke his crown
+              \nAnd Jill came tumbling after.
+              \n\nwhere there is a will
+              \nThere is a way
+              \nYou got to walk all the way
+              \nTry and Try
+              \nWith your head high
+              \nYou will succeed faster...
+              \nwhere there is a will
+              \nThere is a way
+              \nYou got to walk all the way
+              \nTry and Try
+              \nWith your head high
+              \nYou will succeed faster...
+              \n\nJack and Jill
+              \nWith a Strong Will
+              \nWent again up the hill...
+              \nBoth were firm
+              \nNot to fall
+              \nBrought down the pail of water
+              \nJack and Jill
+              \nWith a Strong Will
+              \nWent again up the hill...
+              \nBoth were firm
+              \nNot to fall
+              \nBrought down the pail of water..</item>
+        <item>Johny Johny!Yes,Papa
+              \nEating sugar? No,papa
+              \nTelling lies? No,Papa
+              \nOpen your mouth!
+              \nHa! Ha!! Ha!!!</item>
+        <item>Dashing through the snow
+              \nIn a one-horse open sleigh
+              \nOver the fields we go
+              \nLaughing all the way
+              \nBells on bobtail ring
+              \nMaking spirits bright
+              \nWhat fun it is to ride and sing
+              \nA sleighing song tonight oh
+              \n\nJingle bells,Jingle bells
+              \nJingle all the way
+              \nOh, what fun
+              \nIt is to ride
+              \nIn a one-horse open sleigh
+              \nJingle all the way
+              \nOh, what fun
+              \nIt is to ride
+              \nIn a one-horse open sleigh
+              \n\nNow the ground is white
+              \nGo it while as your young
+              \nTake the girls tonight
+              \nAnd sing this sleighing song
+              \nGet a bobtailed bay
+              \nTwo-forty as his speed
+              \nThen hitch him to an open sleigh,
+              \nAnd crack! You will take the lead.Oh
+              \nJingle bells
+              \nJingle bells
+              \nJingle all the way
+              \nOh, what fun
+              \nIt is to ride
+              \nIn a one-horse open sleigh
+              \nJingle bells
+              \nJingle bells
+              \nJingle all the way
+              \nOh, what fun
+              \nIt is to ride
+              \nIn a one-horse open sleigh</item>
+        <item>Old MACDONALD had a farm
+              \nE-I-E-I-O
+              \nAnd on his farm he had some cow
+              \nE-I-E-I-O
+              \nWith a moo moo here
+              \nAnd a moo moo there
+              \nHere a moo, there a moo
+              \nEverywhere a moo moo..
+              \nOld MacDonald had a farm
+              \nE-I-E-I-O-O-O
+              \n\nOld MACDONALD had a farm
+              \nE-I-E-I-O
+              \nAnd on his farm he had some pig
+              \nE-I-E-I-O
+              \nWith a oink oink here
+              \nAnd a oink oink there
+              \nHere a oink, there a oink
+              \nEverywhere a oink oink..
+              \nOld MacDonald had a farm
+              \nE-I-E-I-O-O-O
+              \nE-I-E-I-O
+              \nOink Oink..
+              \nE-I-E-I-O
+              \nBow Bow..
+              \nE-I-E-I-O
+              \nOink Oink..
+              \nE-I-E-I-O-O-O
+              \n\nOld MACDONALD had a farm
+              \nE-I-E-I-O
+              \nAnd on his farm he had some chick
+              \nE-I-E-I-O
+              \nWith a chik chik here
+              \nAnd a chik chik there
+              \nHere a chik, there a chik
+              \nEverywhere a chik chik..
+              \nOld MacDonald had a farm
+              \nE-I-E-I-O-O-O
+              \n\nOld MACDONALD had a farm
+              \nE-I-E-I-O
+              \nAnd on his farm he had some dog
+              \nE-I-E-I-O
+              \nWith a bow bow here
+              \nAnd a bow bow there
+              \nHere a bow, there a bow
+              \nEverywhere a bow bow..
+              \nOld MacDonald had a farm
+              \nE-I-E-I-O-O-O</item>
+        <item>Rain, rain - go away,
+              \nCome again another day.
+              \nLittle ChuChu wants to play.
+              \nRain, rain go away
+              \nRain, rain - go away,
+              \nCome again another day.
+              \nLittle ChaCha wants to play
+              \nRain, rain, go away..</item>
+        <item>Twinkle, twinkle, little star
+              \nHow I wonder what you are
+              \nUp above the world so high
+              \nLike a diamond in the sky
+              \nTwinkle, twinkle little star
+              \nHow I wonder what you are
+              \n\nWhen the blazing sun is gone
+              \nWhen he nothing shines upon
+              \nThen you show your little light
+              \nTwinkle, twinkle, all the night
+              \nTwinkle, twinkle, little star
+              \nHow I wonder what you are</item>
+        <item>Two little hands to clap, clap, clap.
+              \nTwo little legs to tap, tap, tap.
+              \nTwo little hands to clap, clap, clap.
+              \nTwo little legs to tap, tap, tap.
+              \nTwo little eyes are open wide.
+              \nOne little head goes side to side.
+              \nTwo little eyes are open wide.
+              \nOne little head goes side to side.</item>
+
+    </string-array>
+    <string-array name="telugu_poem_name">
+        <item>Aakesi,kuresi,pappesi,
+              \nAnnam petti,chaaresi,neyyesi
+              \nAmmakoka mudda,nannakoka mudda,
+              \nChellikoka mudda,akkakoka mudda
+              \nAvvakoka mudda,tatakoka mudda,
+              \nNakoka mudda,nekoka mudda
+              \nTinu tInamma tinu... </item>
+        <item>Bava Bava Panneeru
+              \nBavanu pattuku thanneru,
+              \nBava Bava Panneeru
+              \nBavanu pattuku thanneru,
+              \nVeedhi veedhi theparu
+              \nMeesadu gandham pusaru,
+              \nBavanu gunja ku kattaru
+              \nChappidi guddulu guddaru,
+              \nPatte mancham veseru
+              \nPathika guddulu gudderu
+              \nPulaka mancham veseru
+              \nNooru guddulu gudderu
+              \nNooru guddulu gudderu</item>
+        <item>Burru pitta burru pitta thurrumannadi,
+              \nPadamatinti kapuram cheyyanannadi,
+              \nAtha thechina kotha cheera kattanannadi,
+              \nMama thechina malle poolu mudavanannadi,
+              \nMoguni chetha mottikaya thintanannadhi.</item>
+        <item>Chal chal gurram - chalaki gurram,
+              \nSwari chestey - chakkani gurram,
+              \nSamulu chestey - circus gurram,
+              \nPaurushamuntey - pandepu gurram,
+              \nAaganedaitey - arabic gurram,
+              \nChacchudiayithey - jatka gurram..</item>
+        <item>Chandamaama raave,
+              \nJaabilli raave
+              \nKondekki raave,
+              \nKoti poolu theve
+              \nBandi meda raave,
+              \nBanti poolu theve
+              \nPallaki lo raave,
+              \nPaalu perugu theve
+              \nBandi meda raave,
+              \nBanti poolu theve
+              \nPallaki lo raave,
+              \nPaalu perugu theve
+              \nPadava meeda raave,
+              \nPanchadara theve
+              \nRailu meda raave,
+              \nRegu pallu theve
+              \nPilavagne rave,
+              \nPattu thene theve,
+              \nManchi mansutho rave
+              \nMuddulichhi pove
+              \nManchi mansutho rave
+              \nMuddulichhi pove..</item>
+        <item>Chemma chekka charadesi mogga
+              \nAttlu poyanga araginchanga
+              \nRatnala chemma chekka ranguleyanga
+              \nMutyala chemma chekka mugguleyanga
+              \nPagadala chemma chekka pandireyanga
+              \nPanditlo ma bava pelli cheyanga.
+              \n\nVarudi medalo jaji poola danda,
+              \nVadhuvu medalo mutyala danda,
+              \nMavayya medalo morila danda,
+              \nAttamma medalo manikya danda
+              \nDandante danda kadu darjala danda
+              \nDandante danda kadu darjala danda..</item>
+        <item>chitti chilakamma
+              \nAmma kottinda
+              \nTotakellava
+              \nPandu techchava
+              \nGootlo pettava
+              \nGutukkuna mingava..</item>
+        <item>Chitti Chitti Miriyalu
+              \nChettu Kinda Posi,
+              \nPutta Mannu Thechi,
+              \nBommarillu Katti,
+              \nAlankaranchi,
+              \nChallaku pothey,
+              \nAllam vari kukka bhaw bhaw annadi,
+              \nNa kaali gajjelu ghal ghal mannavi,
+              \nChankalo papa kev kev annadi..</item>
+        <item>Chuk chuk railu vasthundi,
+              \nDooram dooram jaragandi,
+              \nAagina tarvata ekkandi,
+              \nJo jo papa edavaku.
+              \nLaddu mitaayee tinipistha
+              \nKammani paalu taagistha.
+              \nLaddu mitaayee tinipistha
+              \nKammani paalu taagistha..
+              \nChuk chuk railu vasthundi,
+              \nDooram dooram jaragandi,
+              \nAagina tarvata ekkandi,
+              \nJo jo papa edavaku...</item>
+        <item>Daagudu moothalu dandakor,
+              \nPilli vachhe eluka daage,
+              \nEkkadi dongalu akkade
+              \nGup chup sambar buddi,
+              \nKallu moosi kaalikor
+              \nAaduko budutho,
+              \nEkkadi dongalu akkade
+              \nGup chup sambar buddi..</item>
+        <item>Doo doo basavanna
+              \nDodda dorandi basavanna.
+               \nDoo doo basavanna
+              \nDodda dorandi basavanna.
+              \nAyygariki dandam pettu,
+              \nAmma gariki dandam pettu,
+              \nAyygariki dandam pettu,
+              \nAmma gariki dandam pettu,
+              \nKoti labalu kalagalandi,
+              \nKoti velpula dayakalagali..
+              \n\nDoo doo venkanna
+              \nMa manchi devudu venkanna,
+              \nDoo doo venkanna
+              \nMa manchi devudu venkanna.
+              \nTirupathi kondaki prayanamandi,
+              \nDevudi mokkulu terchalandi,
+              \nBangaru gittala basavannandi,
+              \nPaidi kommula basavannandi,
+              \nPalamerugula basavannandi,
+              \nBagyamulichhe basavannandi,
+              \nVendi kondapai viharamandi,
+              \nViswanadhuni vaahanamandi,
+              \nPappu biyyam pattukurandi,
+              \nPattu vastramulu tesukurandi...
+              \nDoo doo basavanna
+              \nDodda dorandi basavanna.
+              \nDoo doo basavanna
+              \nDodda dorandi basavanna..</item>
+        <item>Enugamma enugu
+              \nE urochhindi engu
+              \nMaa oorochindi enugu
+              \nManchi nellakochindienugu
+              \nEnugamma enugu
+              \nE urochhindi engu
+              \nMaa oorochindi enugu
+              \nManchi nellakochindienugu</item>
+        <item>Ma tata mokamu,
+              \nAndamaina mokamu.
+              \nMa tata gundu,
+              \nGummadi pandu.
+              \nMa tata meesam,
+              \nRoyyala meesam.
+              \nMa tata pilaka,
+              \nPanchadara chilaka..</item>
+        <item>Poddune manamu levali,
+              \nPallanu baga thomali,
+              \nGlasudu palu tagali,
+              \nSnanam chakkaga cheyali,
+              \nt\Thalanu nunnaga duvvali,
+              \nChaka chaka badiki vellakli,
+              \nGuruvuki dandam pettali,
+              \nChaduvunu baga chadavali,
+              \nAmma nanna mechhali
+              \nAmma nanna mechhalii..</item>
+        <item>Vaana vaana vallappa
+              \nChethulu chaachu challappa
+              \nVaana vaana vallappa
+              \nChethulu chaachu challappa
+              \nThirugu thirugu thimmappa
+              \nThiragalene narasappa
+              \nThirugu thirugu thimmappa
+              \nThiragalene narasappa</item>
+
+    </string-array>
+    <string-array name="hindi_poem_name">
+        <item>Aaj Mangalwar Hai,
+              \nChuhe Ko Bukhar Hai,
+              \nChuha gaya doctor ke pas..
+              \nDoctor ne lagayi sui
+              \nChuha bola haww haww hawww...
+              \n Hmmm hmmmmm...
+              \nAaj Mangalwar Hai,
+              \nChuhe Ko Bukhar Hai.</item>
+        <item>Aao bhai aao,
+              \nKyun bhai kyun ?
+              \nEk chee...z milegi!
+              \nKya bhai kya?
+              \nAao bhai aao,
+              \nKyun bhai kyun ?
+              \nEk chee...z milegi!
+              \nKya bhai kya?
+              \nrasgulla!
+              \nwah bhai wah!
+              \nDoor bhagao
+              \nArey kisko ji?
+              \nGandi gandi makiyan,
+              \nGandi gandi makiyan,
+              \nchi chi chi..!
+              \nchi chi chi..!</item>
+        <item>Akkad bakkad bambay bo,
+              \nAssi nabbay pooray sau,
+              \nChor nikal ke bhage.
+              \nRailu aayi chuk chuk,
+              \nHumne kayi biscuit,
+              \nBiscuit me kante,
+              \nMummy ne maare chatey,
+              \nAloo chole saste,
+              \nPappaji namaste..</item>
+        <item>Baarish Aayi Cham Cham
+              \nLekar Chatta Nikla Hum ...
+              \nPer fisala gir gaye hum
+              \nUpar chatta neeche hum..
+              \nBaarish Aayi Cham Cham
+              \nLekar Chatta Nikla Hum ...
+              \nPer fisala gir gaye hum
+              \nPpar chatta neeche hum...
+              \nBaarish Aayi Cham Cham
+              \nLekar Chatta Nikla Hum ...
+              \nPer fisala gir gaye hum
+              \nUpar chatta neeche hum..</item>
+        <item>Bandar mama pahan pajama
+              \nDaavat kaane aaye,
+              \nBandar mama pahan pajama
+              \nDaavat kaane aaye,
+              \nDeela kurta, topi,joota
+              \nPahan bahut itraye,
+              \nDeela kurta, topi,joota
+              \nPahan bahut itraye,
+              \n\nRasgulle par ji lalchaaya,
+              \nMuh me rakha gap se,
+              \nRasgulle par ji lalchaaya,
+              \nMuh me rakha gap se,
+              \nNaram naram tha, garam garam tha,
+              \njeebh jal gayi lap se,
+              \nNaram naram tha, garam garam tha,
+              \njeebh jal gayi lap se.
+              \nBandar mama rote rote
+              \nGhar Vaapas ko aaye,
+              \nBandar mama rote rote
+              \nGhar Vaapas ko aaye,
+              \nPhenki topi, phenka jhootha,
+              \nRoye aur pachtaaye
+              \nPhenki topi, phenka jhootha,
+              \nRoye aur pachtaaye</item>
+          <item>Billi gayee Dilli,
+              \nDilli mein tha bandar,
+              \nLaal kille ke andar.
+              \nBandar ne dee moongphali
+              \nBilli lekar use chali,
+              \nRaaste mein tha bhaalu,
+              \nBhaalu bola mai khalu?
+              \nBilli boli jhat myaoo
+              \nBilli ne mara panja,
+              \nBhaalu ho gaya ganja..</item>
+          <item>Chandaa Mama Aao Na,
+              \nDudh Bataashaa Khao Na,
+                \nChandaa Mama Aao Na,
+              \nDudh Bataashaa Khao Na,
+              \nMeethi Lori Gaao Na,
+                \nMeethi Lori Gaao Na,
+              \nBistar Mein So Jaao Na..
+              \nMera Bistar Mein So Jaao Na..
+              \nChandaa Mama Aao Na,
+             \nChandaa Mama Aao Na,</item>
+        <item>Chanda mama gol gol,
+              \nChanda mama gol gol,
+              \nSooraj chahu gol gol,
+              \nSooraj chahu gol gol,
+              \nMummy ki roti gol gol,
+              \nMummy ki roti gol gol,
+              \nPapa ka paisa gol gol,
+              \nPapa ka paisa gol gol,
+              \nHum bhi gol,tum bhi gol,
+              \nHum bhi gol,tum bhi gol,
+              \nSari duniya gol matol.
+               \nSari duniya gol matol.</item>
+        <item>Dhobi aaya, dhobi aaya,
+              \nDhobi aaya, dhobi aaya
+              \nKitne kapde laaya
+              \nkapde gin
+              \nEk, Do, Teen mummy
+              \nEk, Do, Teen..
+              \n\nDhobi aaya, dhobi aaya,
+              \nDhobi aaya, dhobi aaya
+              \nKitne kapde laaya
+              \nkapde gin
+              \nChaar, Paanch, Chhe mummy
+              \nChaar, Paanch, Chhe..
+              \n\nDhobi aaya, dhobi aaya,
+              \nDhobi aaya, dhobi aaya
+              \nKitne kapde laaya
+              \nkapde gin
+              \nSaat, Aatth, Nau mummy
+              \nSaat, Aatth, Nau..
+              \n\nDhobi aaya, dhobi aaya,
+              \nDhobi aaya, dhobi aaya
+              \nKitne kapde laaya
+              \nkapde gin
+              \nDus, Dus, Dus mummy
+              \nDus, Dus, Dus
+              \nBus bus bus</item>
+          <item>Ek chota-do chote
+                \nTheen chote indians
+                \nChaar chote-pnch cote
+                \nChe chote indians
+                \nSath chote-aat chote
+                \nNau chote indians
+                \nDus chote indian ladke
+                \n\nDus chote-nau chote
+                \nAat chote indians
+                \nSath chote-che cote
+                \nPanch chote indians
+                \nChaar chote-theen chote
+                \nDo chote indians
+                \nEk chota indian ladka </item>
+        <item>Hathi Raja bahut bade,
+              \nSoond milakar kar kaha chale
+              \nHathi Raja bahut bade,
+              \nSoond milakar kar kaha chale.
+              \nMare ghar bhi aao na
+              \nhalwa pudi Khao na
+              \nAao baitho kursi par
+              \nkursi par,mei kursi par,
+              \nKursi bole Chatar Patar, Chatar Patar
+              \nChatar Patar, Chatar Patar
+              \nChatar Patar, Chatar Patar...</item>
+        <item>Machili jal ki rani Hai,
+              \nJeevan Uska Paani Hai,
+              \nHaath Lagoge Toh Darr Jayegi,
+              \nBaahar Nikaloge Toh Mar Jayegi,
+              \nPani me dalo tho tair jayegi..
+              \nPani me dalo tho tair jayegi..
+              \nMachili jal ki rani Hai,
+              \nJeevan Uska Paani Hai,
+              \nHaath Lagoge Toh Darr Jayegi,
+              \nBaahar Nikaloge Toh Mar Jayegi,
+              \nPani me dalo tho tair jayegi..
+              \nPani me dalo tho tair jayegi..</item>
+        <item>Meri gaiya aati hein,
+              \nMujhko doodh pilaati hein,
+              \nGore rang me sajhti hein,
+              \nBacche sab aa jate hein,
+              \nUsko pyaar jatatein hein,
+              \nUska ek baccha hein,
+              \nUchal kood mein saccha hein,
+              \nMeri gayya aati hein..
+              \nMeri gaiya aati hein,
+              \nMujhko doodh pilaati hein,
+              \nGore rang me sajhti hein,
+              \nBacche sab aa jate hein..</item>
+        <item>Nani nani suno kahani,
+              \nEk tha raja ek thi rani,
+              \nRaja baitha gode par,
+              \nrani baithi palki par,
+              \nBaarish aayi barsa paani,
+              \nbheega raja bachgayi rani.</item>
+        <item>Hey!Bhagwaan Tujhe Pranaam,
+              \nHey!Bhagwaan Tujhe Pranaam,
+              \nTere Bachchey Hum Ho Sachchey..
+              \nHey!Bhagwaan Tujhe Pranaam,
+              \nHey!Bhagwaan Tujhe Pranaam,
+              \n\nPadh Likhenge Yogya Banenge,
+              \nKaam Karenge Nahin Darenge..
+              \nHey!Bhagwaan Tujhe Pranaam,
+              \nHey!Bhagwaan Tujhe Pranaam,
+              \nNitya Badhenge Badhe Chalenge,
+              \nDo Vardaan Hey! Bhagwaan...
+              \nHey!Bhagwaan Tujhe Pranaam,
+              \nHey!Bhagwaan Tujhe Pranaam..</item>
+
+    </string-array>
+</resources>

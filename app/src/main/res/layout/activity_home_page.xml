@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main_page"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blue_border"
+    android:keepScreenOn="true"
+    tools:context="com.bruce.kidzymer.kidpoems.Home_page">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <Button
+            android:id="@+id/engbutton"
+            android:layout_width="@dimen/_100sdp"
+            android:layout_height="@dimen/_180sdp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="@dimen/_100sdp"
+            android:layout_marginLeft="@dimen/_35sdp"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/ballon_red"
+            />
+
+        <Button
+            android:id="@+id/telbutton"
+            android:layout_width="@dimen/_100sdp"
+            android:layout_height="@dimen/_180sdp"
+            android:layout_marginLeft="@dimen/_105sdp"
+            android:background="@drawable/balloon_blue"
+            android:layout_below="@+id/engbutton"
+            android:layout_marginRight="@dimen/_105sdp"
+            />
+
+        <Button
+            android:id="@+id/hinbutton"
+            android:layout_width="@dimen/_100sdp"
+            android:layout_height="@dimen/_180sdp"
+            android:layout_marginRight="@dimen/_35sdp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="@dimen/_100sdp"
+            android:background="@drawable/balloon_green"
+            />
+
+
+    </RelativeLayout>
+
+</RelativeLayout>
